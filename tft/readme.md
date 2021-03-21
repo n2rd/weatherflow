@@ -4,3 +4,4 @@ Items needed:
   2) TFT FeatherWing - 2.4" 320x240 Touchscreen For All Feathers  Price $22.95 checked on 3/21/2021  The feather pins go into the female headers on featherwing.  
   3) USB Micro B cable and a USB power supply
   4) Optional 3D printed case.  You can download the desing files (STL) from https://www.thingiverse.com/thing:1944905 and print them yourself or using a printing service such as CraftCloud3D https://craftcloud3d.com.  I used this service and the box and lid cost just $6 (plus $6 shipping.  I bough a few sets for the same shipping cost).
+![image](https://user-images.githubusercontent.com/81044140/111914082-01a78900-8a47-11eb-9b43-a34774e6df58.png)
