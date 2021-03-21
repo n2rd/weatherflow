@@ -11,8 +11,8 @@
 #define SCREEN_HEIGHT 320
 
 // WiFi Setup
-#define WIFI_SSID "dewan"
-#define WIFI_PASS "cheerful"
+#define WIFI_SSID "ssid"
+#define WIFI_PASS "pw"
 #define WIFI_HOSTNAME "WFPanel1"
 
 //Wind circle specs
